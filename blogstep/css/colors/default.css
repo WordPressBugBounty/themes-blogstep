@@ -566,7 +566,7 @@ form.search-form .search-submit{
 .bs-sidebar .bs-widget.widget_blogus-author-widget{
 	background-color: var(--box-color);
 }
-.bs-sidebar .bs-widget ul li {
+.bs-sidebar .bs-widget ul li,.bs-sidebar .bs-widget ol li {
     border-color: var(--border-color);
     color: var(--text-color);
 }
